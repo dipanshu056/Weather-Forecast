@@ -19,7 +19,7 @@ WeatherApp fetches real-time weather data and displays it with a clean, responsi
 [Live Demo](https://dipanshu056.github.io/Weather-Forecast/) 
 
 ## How to Run
-1. Clone this repo: `git clone https://github.com/dipanshu056/WeatherApp.git`
+1. Clone this repo: `git clone https://github.com/dipanshu056/Weather-Forcast.git`
 2. Open `index.html` in a browser.
 3. Enter a city name or allow location access.
 
