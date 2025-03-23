@@ -16,18 +16,14 @@ WeatherApp fetches real-time weather data and displays it with a clean, responsi
 - **JavaScript**: Fetching weather API and dynamic updates
 
 ## Demo
-[Live Demo](https://dipanshu056.github.io/WeatherApp/) 
-
-## Screenshots
-![WeatherApp Screenshot](assets/screenshot.png)
+[Live Demo](https://dipanshu056.github.io/Weather-Forecast/) 
 
 ## How to Run
 1. Clone this repo: `git clone https://github.com/dipanshu056/WeatherApp.git`
 2. Open `index.html` in a browser.
 3. Enter a city name or allow location access.
 
-## API Used
-- [OpenWeatherMap](https://openweathermap.org/) *(or whichever API you used)*
+## API Used -- 
 
 ## Future Improvements
 - Add 5-day forecast
